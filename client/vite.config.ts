@@ -11,7 +11,7 @@ import { defineConfig } from 'vite'
 export default defineConfig({
   server: {
     host: '0.0.0.0', // Allows access from any network interface
-    port: 3001      // Use a specific port
+    port: 3000      // Use a specific port
   }
 })
 
