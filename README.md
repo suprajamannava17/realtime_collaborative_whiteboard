@@ -4,7 +4,7 @@ Collaborative Whiteboard is a platform facilitating real-time, shared visual col
 
 ### Preview
 
-![Collaborative Whiteboard](client/src/assets/Whiteboard.jpeg)
+![Collaborative Whiteboard](client/src/assets/Images/Whiteboard.jpeg)
 
 
 
